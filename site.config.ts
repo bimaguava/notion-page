@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Rumah bagi catatan',
 
   // social usernames (optional)
-  //twitter: '#',
-  github: 'bimaguava',
-  //linkedin: '#',
+  // twitter: '#',
+  // github: '#',
+  // linkedin: '#',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
