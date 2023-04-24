@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Arsip',
-  domain: 'notion.untuksemua.or.id',
+  name: 'tiboard',
+  domain: 'ti.untuksemua.or.id',
   author: 'Bima',
 
   // open graph metadata (optional)
