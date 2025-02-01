@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'tiboard',
-  domain: 'ti.untuksemua.or.id',
-  author: 'Bima',
+  name: 'T board',
+  domain: 'tiboard.vercel.app',
+  author: 'Bimagv',
 
   // open graph metadata (optional)
-  description: 'Rumah bagi catatan',
+  description: 'sd',
 
   // social usernames (optional)
-  // twitter: '#',
-  // github: '#',
-  // linkedin: '#',
+  // twitter: '',
+  github: 'bimaguava',
+  // linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -49,7 +49,7 @@ export default siteConfig({
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
-  // important pages
+  // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
   navigationStyle: 'default'
   // navigationStyle: 'custom',
   // navigationLinks: [
