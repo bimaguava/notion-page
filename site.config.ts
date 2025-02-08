@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'alawiki/72c2c6a08a0e45998edede14a89ad356',
+  rootNotionPageId: 'alawiki/852b2b9b94b049e294f30cc21785efa3?v=2aa7564007c340c49c53e2b84c3805b0',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
